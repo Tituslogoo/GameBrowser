@@ -1,0 +1,6 @@
+framework module Pods_GameBrowserTests {
+  umbrella header "Pods-GameBrowserTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

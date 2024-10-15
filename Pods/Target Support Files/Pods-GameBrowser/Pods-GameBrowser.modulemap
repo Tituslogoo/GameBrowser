@@ -1,0 +1,6 @@
+framework module Pods_GameBrowser {
+  umbrella header "Pods-GameBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
